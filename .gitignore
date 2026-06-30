@@ -1,0 +1,22 @@
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Переменные окружения
+.env
+env.py
+
+# Telethon
+*.session
+*.session-journal
+
+# Логи
+*.log
